@@ -48,6 +48,8 @@ function App() {
   );
 }
 
+export default App;
+
 // class OldApp extends Component {
 //   state = {
 //     contacts: [],
@@ -113,5 +115,3 @@ function App() {
 //     );
 //   }
 // }
-
-export default App;
